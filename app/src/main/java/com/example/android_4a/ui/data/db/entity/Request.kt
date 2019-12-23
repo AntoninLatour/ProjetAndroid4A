@@ -1,4 +1,4 @@
-package com.example.android_4a.ui.data.response
+package com.example.android_4a.ui.data.db.entity
 
 
 import com.google.gson.annotations.SerializedName
